@@ -131,4 +131,3 @@ Recomendación: Para una mejor experiencia, utiliza la extensión Live Server de
 
 👤 Autor
 Luis Fiedler - Desarrollador Fullstack en formación
-```
